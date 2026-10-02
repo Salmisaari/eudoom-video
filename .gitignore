@@ -1,0 +1,25 @@
+.DS_Store
+node_modules/
+.vite/
+.env
+
+# renders
+out/
+
+# analysis: Python env, model weights, stems and intermediates (regenerable, large)
+analysis/.venv/
+analysis/.cache/
+analysis/__pycache__/
+analysis/stems/
+analysis/work/
+analysis/qa/
+
+# song pipeline: generated takes, logs and the ElevenLabs upload id (your own)
+audio/el_music/*.mp3
+audio/el_music/*.wav
+audio/el_music/*.log
+audio/el_music/*cache.json
+audio/el_music/upload.json
+
+# source films (the extracted frames are committed)
+app/public/animatic/film/*.webm
