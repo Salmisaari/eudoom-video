@@ -4,7 +4,7 @@
 
 A remix of "I'm Upping My P(doom)" with 21 lines rewritten about Europe and sung into the original recording, and a code-rendered music video printed in four inks like a European regulation.
 
-**Watch:** _link coming_
+**Watch:** [on X](https://x.com/JSalmisaari/status/2105926129567879524)
 
 ## How it was made
 
